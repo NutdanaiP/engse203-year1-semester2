@@ -1,4 +1,4 @@
-// src/models/Todo.js
+// สร้างไฟล์ src/models/Todo.js
 const dbManager = require('../db');
 
 class Todo {
