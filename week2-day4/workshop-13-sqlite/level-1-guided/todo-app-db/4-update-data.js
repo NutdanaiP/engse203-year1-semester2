@@ -1,4 +1,4 @@
-// 4-update-data.js
+// 4-สร้างไฟล์update-data.js
 const Database = require('better-sqlite3');
 const db = new Database('database.db');
 
