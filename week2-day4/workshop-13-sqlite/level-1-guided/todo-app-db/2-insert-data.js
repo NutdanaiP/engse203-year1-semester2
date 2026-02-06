@@ -1,4 +1,4 @@
-// 2-insert-data.js
+// 2-สร้างไฟล์ insert-data.js
 const Database = require('better-sqlite3');
 const db = new Database('database.db');
 
