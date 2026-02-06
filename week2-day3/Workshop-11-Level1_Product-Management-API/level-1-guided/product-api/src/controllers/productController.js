@@ -1,4 +1,4 @@
-// src/controllers/productController.js
+// สร้างไฟล์ src/controllers/productController.js
 const Product = require('../data/products');
 
 /**
