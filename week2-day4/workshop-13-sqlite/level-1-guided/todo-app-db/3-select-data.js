@@ -1,4 +1,4 @@
-// 3-select-data.js
+// 3-สร้างไฟล์select-data.js
 const Database = require('better-sqlite3');
 const db = new Database('database.db');
 
