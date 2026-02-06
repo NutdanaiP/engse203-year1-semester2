@@ -1,4 +1,4 @@
-// routes/index.js
+// สร้างไฟล์ routes/index.js
 const express = require('express');
 const router = express.Router();
 

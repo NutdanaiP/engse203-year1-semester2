@@ -1,4 +1,4 @@
-// routes/users.js
+// สร้างไฟล์ routes/users.js
 const express = require('express');
 const router = express.Router();
 const validateUser = require('../middleware/validateUser');
