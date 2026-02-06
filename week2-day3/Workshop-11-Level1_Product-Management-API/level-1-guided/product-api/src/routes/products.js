@@ -1,4 +1,4 @@
-// src/routes/products.js
+// สร้างไฟล์ src/routes/products.js
 const express = require('express');
 const router = express.Router();
 const productController = require('../controllers/productController');
