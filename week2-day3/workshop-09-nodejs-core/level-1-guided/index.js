@@ -1,4 +1,4 @@
-// index.js
+// สร้างไฟล์ index.js
 const fileManager = require('./modules/fileManager');
 const logger = require('./modules/logger');
 const { config, validateConfig } = require('./modules/config');
