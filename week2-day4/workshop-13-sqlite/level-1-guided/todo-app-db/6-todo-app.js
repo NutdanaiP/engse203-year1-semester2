@@ -1,4 +1,4 @@
-// 6-todo-app.js
+// 6-สร้างไฟล์ todo-app.js
 const Database = require('better-sqlite3');
 const db = new Database('database.db');
 
