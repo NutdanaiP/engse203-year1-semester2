@@ -1,4 +1,4 @@
-// modules/config.js
+// ส้ร้างไฟล์ modules/config.js
 require('dotenv').config();
 
 const config = {
