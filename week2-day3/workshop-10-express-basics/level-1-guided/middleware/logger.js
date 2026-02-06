@@ -1,4 +1,4 @@
-// middleware/logger.js
+// สร้างไฟล์middleware/logger.js
 
 /**
  * Logger middleware - บันทึกข้อมูล request

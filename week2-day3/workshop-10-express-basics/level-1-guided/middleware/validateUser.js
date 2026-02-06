@@ -1,4 +1,4 @@
-// middleware/validateUser.js
+// สร้างไฟล์ middleware/validateUser.js
 
 /**
  * Middleware สำหรับ validate user data

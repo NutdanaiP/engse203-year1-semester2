@@ -1,4 +1,4 @@
-// middleware/requestTimer.js
+// สร้างไฟล์ middleware/requestTimer.js
 
 /**
  * Request Timer middleware - วัดเวลาที่ใช้ในการ process request

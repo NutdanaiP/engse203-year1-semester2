@@ -1,4 +1,4 @@
-// middleware/errorHandler.js
+// สร้างไฟล์middleware/errorHandler.js
 
 /**
  * Error handling middleware - จัดการ errors แบบ centralized
