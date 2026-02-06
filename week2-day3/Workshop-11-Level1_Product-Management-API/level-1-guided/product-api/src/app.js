@@ -1,4 +1,4 @@
-// src/app.js
+// สร้างไฟล์src/app.js
 const express = require('express');
 const cors = require('cors');
 const helmet = require('helmet');

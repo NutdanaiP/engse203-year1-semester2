@@ -1,4 +1,4 @@
-// src/middleware/errorHandler.js
+// สร้างไฟล์src/middleware/errorHandler.js
 
 /**
  * Global error handler
