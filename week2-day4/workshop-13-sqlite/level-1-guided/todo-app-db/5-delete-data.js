@@ -1,4 +1,4 @@
-// 5-delete-data.js
+// 5-สร้างไฟล์ delete-data.js
 const Database = require('better-sqlite3');
 const db = new Database('database.db');
 
