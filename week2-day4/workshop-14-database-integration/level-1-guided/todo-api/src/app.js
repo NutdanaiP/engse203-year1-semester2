@@ -1,4 +1,4 @@
-// src/app.js
+// สร้างไฟล์ src/app.js
 const express = require('express');
 const cors = require('cors');
 const todoRoutes = require('./routes/todos');

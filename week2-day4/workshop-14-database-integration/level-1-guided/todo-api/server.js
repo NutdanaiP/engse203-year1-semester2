@@ -1,4 +1,4 @@
-// server.js
+// สร้างไฟล์ server.js
 require('dotenv').config();
 const app = require('./src/app');
 const dbManager = require('./src/db');
