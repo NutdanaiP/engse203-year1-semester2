@@ -1,4 +1,4 @@
-// src/db.js
+// สร้้างไฟล์ src/db.js
 const Database = require('better-sqlite3');
 const fs = require('fs');
 const path = require('path');

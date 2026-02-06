@@ -1,4 +1,4 @@
--- database/seed.sql
+-- สร้างไฟล์ database/seed.sql
 
 -- ข้อมูลตัวอย่าง
 INSERT INTO todos (task, done) VALUES

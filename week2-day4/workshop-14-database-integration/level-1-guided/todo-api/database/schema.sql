@@ -1,4 +1,4 @@
--- database/schema.sql
+-- สร้างไฟล์ database/schema.sql
 
 -- ลบ table เก่า
 DROP TABLE IF EXISTS todos;
