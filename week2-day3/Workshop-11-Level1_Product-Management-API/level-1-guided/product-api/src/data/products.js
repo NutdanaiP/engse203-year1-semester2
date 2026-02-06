@@ -1,4 +1,4 @@
-// src/data/products.js
+// สร้างไฟล์ src/data/products.js
 
 /**
  * In-memory data storage
