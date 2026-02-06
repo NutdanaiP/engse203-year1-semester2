@@ -1,4 +1,4 @@
-// 1-create-table.js
+// 1-สร้างไฟล์ create-table.js
 const Database = require('better-sqlite3');
 
 // เชื่อมต่อ database (ถ้าไม่มีจะสร้างใหม่)
