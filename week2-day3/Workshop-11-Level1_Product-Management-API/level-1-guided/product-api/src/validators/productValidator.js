@@ -1,4 +1,4 @@
-// src/validators/productValidator.js
+// สร้างไฟล์ src/validators/productValidator.js
 const { body, param, query, validationResult } = require('express-validator');
 
 /**
